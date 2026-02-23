@@ -15,4 +15,6 @@ Built as a single standalone HTML file. No backend required.
 ## Usage
 
 Download the HTML file and open it in your browser to start splitting
-expenses.
+expenses. 
+
+Or just visit this [site](https://devamshi.github.io/free-expense-splitter/)
